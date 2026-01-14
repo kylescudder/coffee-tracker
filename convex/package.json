@@ -1,0 +1,12 @@
+{
+  "name": "coffee-tracker-convex",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "convex dev",
+    "deploy": "convex deploy"
+  },
+  "dependencies": {
+    "convex": "^1.15.0"
+  }
+}
